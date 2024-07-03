@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "theme": "serie",
+        "question": "Dans la série 'Breaking Bad', quel est le nom du personnage principal ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseUnique",
+        "choix": ["Jesse Pinkman", "Walter White", "Hank Schrader", "Saul Goodman"],
+        "reponse": [1]
+    },
+    {
+        "id": 2,
+        "theme": "serie",
+        "question": "Quel est le nom du trône dans 'Game of Thrones' ? ",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseUnique",
+        "choix": [" Le Trône d'Argent", "Le Trône de Pierre", "Le Trône de Feu", "Le Trône de Fer"],
+        "reponse": [3]
+    },
+    {
+        "id": 3,
+        "theme": "serie",
+        "question": "Dans 'The Office' (version américaine), quel est le nom de l'entreprise où travaillent les personnages principaux ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseUnique",
+        "choix": ["Dunder Mifflin", "Scranton Paper Company", "Mifflin Dunder", "Wernham Hogg"],
+        "reponse": [0]
+    },
+    {
+        "id": 4,
+        "theme": "serie",
+        "question": "Quelle série met en scène les aventures d'une famille de motards hors-la-loi ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseUnique",
+        "choix": ["Sons of Anarchy", "Breaking Bad", "The Walking Dead", "Dexter"],
+        "reponse": [0]
+    },
+    {
+        "id": 5,
+        "theme": "serie",
+        "question": "Dans Fallout, de quel abri provient la protagoniste principale Lucy MacLean ? ",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseUnique",
+        "choix": ["Le Bunker 911", "La zone 31", "L'Abri 33", "La cabane au fond du jardin"],
+        "reponse": [2]
+    },
+    {
+        "id": 6,
+        "theme": "serie",
+        "question": "Dans 'Game of Thrones', quels personnages sont membres de la famille Stark ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseMultiple",
+        "choix": ["Arya", "Sansa", "Bran", "Joffrey"],
+        "reponse": [0, 1, 2]
+    },
+    {
+        "id": 7,
+        "theme": "serie",
+        "question": "Dans 'The Office' (version américaine), quels personnages ont été amoureux de Pam Beesly ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseMultiple",
+        "choix": ["Jim Halpert", "Roy Anderson", "Michael Scott", "Ryan Howard"],
+        "reponse": [0, 1]
+    },
+    {
+        "id": 8,
+        "theme": "serie",
+        "question": "Dans 'Stranger Things', quels personnages ont des pouvoirs surnaturels ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseMultiple",
+        "choix": ["Eleven", "Will", "Max", "Kali (Eight)"],
+        "reponse": [0, 3]
+    },
+    {
+        "id": 9,
+        "theme": "serie",
+        "question": "Dans 'Friends', quels personnages ont eu des enfants pendant la série ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseMultiple",
+        "choix": ["Ross", "Chandler", "Joey", "Rachel"],
+        "reponse": [1, 3]
+    },
+    {
+        "id": 10,
+        "theme": "serie",
+        "question": "Dans la série 'Fallout', quelles factions peuvent être rencontrées par le joueur ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseMultiple",
+        "choix": ["La Confrérie de l'Acier", "La Légion de César", "Vault-Tec", "Les Miliciens"],
+        "reponse": [0, 2]
+    },
+    {
+        "id": 11,
+        "theme": "serie",
+        "question": "Dans le film 'Inception', quel objet Cobb utilise-t-il pour distinguer la réalité du rêve ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseUnique",
+        "choix": ["Une pièce de monnaie", "Un totem", "Une toupie", "Une montre"],
+        "reponse": [2]
+    },
+    {
+        "id": 12,
+        "theme": "serie",
+        "question": "Dans le film 'Le Seigneur des Anneaux : La Communauté de l'Anneau', qui dit la phrase 'Un Anneau pour les gouverner tous' ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseUnique",
+        "choix": ["Gandalf", "Sauron", "Galadriel", "Frodo"],
+        "reponse": [2]
+    },
+    {
+        "id": 13,
+        "theme": "serie",
+        "question": "Dans le film 'Titanic', qui joue le rôle de Jack Dawson ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseUnique",
+        "choix": ["Brad Pitt", "Johnny Depp", "Leonardo DiCaprio", "Tom Cruise"],
+        "reponse": [2]
+    },
+    {
+        "id": 14,
+        "theme": "serie",
+        "question": "Dans le film 'Harry Potter à l'école des sorciers', quelle est la première créature magique que Harry rencontre ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseUnique",
+        "choix": ["Hagrid", "Hedwige", "Dobby", "Norbert"],
+        "reponse": [0]
+    },
+    {
+        "id": 15,
+        "theme": "serie",
+        "question": "Dans le film 'Star Wars : Un nouvel espoir', quel est le nom du vaisseau spatial piloté par Han Solo ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseUnique",
+        "choix": ["Le Normandy", "Le Faucon Millenium", "Le Jambonbeurre", "L'Acquila"],
+        "reponse": [1]
+    },
+    {
+        "id": 16,
+        "theme": "serie",
+        "question": "Dans le film 'Avengers: Endgame', quels personnages portent les Pierres d'Infinité pour inverser le snap de Thanos ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseMultiple",
+        "choix": ["Iron Man", "Captain America", "Hulk", "Thor"],
+        "reponse": [0, 1, 2]
+    },
+    {
+        "id": 17,
+        "theme": "serie",
+        "question": "Dans le film 'Jurassic Park', quels dinosaures sont montrés pour la première fois aux visiteurs du parc ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseMultiple",
+        "choix": ["Tyrannosaurus Rex", "Velociraptors", "Triceratops", "Brachiosaure"],
+        "reponse": [0, 3]
+    },
+    {
+        "id": 18,
+        "theme": "serie",
+        "question": "Dans le film 'Interstellar', quels événements provoquent des variations temporelles significatives pour les personnages ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseMultiple",
+        "choix": ["Proximité d'un trou noir", "Planète avec une dilatation temporelle", "Voyage à travers un trou de ver", "Atterrissage sur Mars"],
+        "reponse": [0, 1, 2]
+    },
+    {
+        "id": 19,
+        "theme": "serie",
+        "question":"Dans le film 'Les Gardiens de la Galaxie', quels personnages forment l'équipe principale ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseMultiple",
+        "choix": ["Star-Lord", "Gamora", "Drax le Destructeur", "Loki"],
+        "reponse": [0, 1, 2]
+    },
+    {
+        "id": 20,
+        "theme": "serie",
+        "question": "Dans le film 'The Dark Knight', quels personnages jouent des rôles majeurs dans l'histoire ?",
+        "image": {
+            "imageQuestion": "",
+            "imageReponse": ""
+        },
+        "type": "reponseMultiple",
+        "choix": ["Batman", "Superman", "Joker", "Catwoman"],
+        "reponse": [0, 2]
+    }
+]
