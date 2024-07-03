@@ -8,8 +8,15 @@
             "imageReponse": ""
         },
         "type": "reponseUnique",
-        "choix": ["Jesse Pinkman", "Walter White", "Hank Schrader", "Saul Goodman"],
-        "reponse": [1]
+        "choix": [
+            "Jesse Pinkman",
+            "Walter White",
+            "Hank Schrader",
+            "Saul Goodman"
+        ],
+        "reponse": [
+            1
+        ]
     },
     {
         "id": 2,
@@ -20,8 +27,15 @@
             "imageReponse": ""
         },
         "type": "reponseUnique",
-        "choix": [" Le Trône d'Argent", "Le Trône de Pierre", "Le Trône de Feu", "Le Trône de Fer"],
-        "reponse": [3]
+        "choix": [
+            " Le Trône d'Argent",
+            "Le Trône de Pierre",
+            "Le Trône de Feu",
+            "Le Trône de Fer"
+        ],
+        "reponse": [
+            3
+        ]
     },
     {
         "id": 3,
@@ -32,8 +46,15 @@
             "imageReponse": ""
         },
         "type": "reponseUnique",
-        "choix": ["Dunder Mifflin", "Scranton Paper Company", "Mifflin Dunder", "Wernham Hogg"],
-        "reponse": [0]
+        "choix": [
+            "Dunder Mifflin",
+            "Scranton Paper Company",
+            "Mifflin Dunder",
+            "Wernham Hogg"
+        ],
+        "reponse": [
+            0
+        ]
     },
     {
         "id": 4,
@@ -44,8 +65,15 @@
             "imageReponse": ""
         },
         "type": "reponseUnique",
-        "choix": ["Sons of Anarchy", "Breaking Bad", "The Walking Dead", "Dexter"],
-        "reponse": [0]
+        "choix": [
+            "Sons of Anarchy",
+            "Breaking Bad",
+            "The Walking Dead",
+            "Dexter"
+        ],
+        "reponse": [
+            0
+        ]
     },
     {
         "id": 5,
@@ -56,8 +84,15 @@
             "imageReponse": ""
         },
         "type": "reponseUnique",
-        "choix": ["Le Bunker 911", "La zone 31", "L'Abri 33", "La cabane au fond du jardin"],
-        "reponse": [2]
+        "choix": [
+            "Le Bunker 911",
+            "La zone 31",
+            "L'Abri 33",
+            "La cabane au fond du jardin"
+        ],
+        "reponse": [
+            2
+        ]
     },
     {
         "id": 6,
@@ -68,8 +103,17 @@
             "imageReponse": ""
         },
         "type": "reponseMultiple",
-        "choix": ["Arya", "Sansa", "Bran", "Joffrey"],
-        "reponse": [0, 1, 2]
+        "choix": [
+            "Arya",
+            "Sansa",
+            "Bran",
+            "Joffrey"
+        ],
+        "reponse": [
+            0,
+            1,
+            2
+        ]
     },
     {
         "id": 7,
@@ -80,8 +124,16 @@
             "imageReponse": ""
         },
         "type": "reponseMultiple",
-        "choix": ["Jim Halpert", "Roy Anderson", "Michael Scott", "Ryan Howard"],
-        "reponse": [0, 1]
+        "choix": [
+            "Jim Halpert",
+            "Roy Anderson",
+            "Michael Scott",
+            "Ryan Howard"
+        ],
+        "reponse": [
+            0,
+            1
+        ]
     },
     {
         "id": 8,
@@ -92,8 +144,16 @@
             "imageReponse": ""
         },
         "type": "reponseMultiple",
-        "choix": ["Eleven", "Will", "Max", "Kali (Eight)"],
-        "reponse": [0, 3]
+        "choix": [
+            "Eleven",
+            "Will",
+            "Max",
+            "Kali (Eight)"
+        ],
+        "reponse": [
+            0,
+            3
+        ]
     },
     {
         "id": 9,
@@ -104,8 +164,16 @@
             "imageReponse": ""
         },
         "type": "reponseMultiple",
-        "choix": ["Ross", "Chandler", "Joey", "Rachel"],
-        "reponse": [1, 3]
+        "choix": [
+            "Ross",
+            "Chandler",
+            "Joey",
+            "Rachel"
+        ],
+        "reponse": [
+            1,
+            3
+        ]
     },
     {
         "id": 10,
@@ -116,8 +184,16 @@
             "imageReponse": ""
         },
         "type": "reponseMultiple",
-        "choix": ["La Confrérie de l'Acier", "La Légion de César", "Vault-Tec", "Les Miliciens"],
-        "reponse": [0, 2]
+        "choix": [
+            "La Confrérie de l'Acier",
+            "La Légion de César",
+            "Vault-Tec",
+            "Les Miliciens"
+        ],
+        "reponse": [
+            0,
+            2
+        ]
     },
     {
         "id": 11,
@@ -128,8 +204,15 @@
             "imageReponse": ""
         },
         "type": "reponseUnique",
-        "choix": ["Une pièce de monnaie", "Un totem", "Une toupie", "Une montre"],
-        "reponse": [2]
+        "choix": [
+            "Une pièce de monnaie",
+            "Un totem",
+            "Une toupie",
+            "Une montre"
+        ],
+        "reponse": [
+            2
+        ]
     },
     {
         "id": 12,
@@ -140,8 +223,15 @@
             "imageReponse": ""
         },
         "type": "reponseUnique",
-        "choix": ["Gandalf", "Sauron", "Galadriel", "Frodo"],
-        "reponse": [2]
+        "choix": [
+            "Gandalf",
+            "Sauron",
+            "Galadriel",
+            "Frodo"
+        ],
+        "reponse": [
+            2
+        ]
     },
     {
         "id": 13,
@@ -152,8 +242,15 @@
             "imageReponse": ""
         },
         "type": "reponseUnique",
-        "choix": ["Brad Pitt", "Johnny Depp", "Leonardo DiCaprio", "Tom Cruise"],
-        "reponse": [2]
+        "choix": [
+            "Brad Pitt",
+            "Johnny Depp",
+            "Leonardo DiCaprio",
+            "Tom Cruise"
+        ],
+        "reponse": [
+            2
+        ]
     },
     {
         "id": 14,
@@ -164,8 +261,15 @@
             "imageReponse": ""
         },
         "type": "reponseUnique",
-        "choix": ["Hagrid", "Hedwige", "Dobby", "Norbert"],
-        "reponse": [0]
+        "choix": [
+            "Hagrid",
+            "Hedwige",
+            "Dobby",
+            "Norbert"
+        ],
+        "reponse": [
+            0
+        ]
     },
     {
         "id": 15,
@@ -176,8 +280,15 @@
             "imageReponse": ""
         },
         "type": "reponseUnique",
-        "choix": ["Le Normandy", "Le Faucon Millenium", "Le Jambonbeurre", "L'Acquila"],
-        "reponse": [1]
+        "choix": [
+            "Le Normandy",
+            "Le Faucon Millenium",
+            "Le Jambonbeurre",
+            "L'Acquila"
+        ],
+        "reponse": [
+            1
+        ]
     },
     {
         "id": 16,
@@ -188,20 +299,36 @@
             "imageReponse": ""
         },
         "type": "reponseMultiple",
-        "choix": ["Iron Man", "Captain America", "Hulk", "Thor"],
-        "reponse": [0, 1, 2]
+        "choix": [
+            "Iron Man",
+            "Captain America",
+            "Hulk",
+            "Thor"
+        ],
+        "reponse": [
+            0,
+            1,
+            2
+        ]
     },
     {
         "id": 17,
-        "theme": "serie",
-        "question": "Dans le film 'Jurassic Park', quels dinosaures sont montrés pour la première fois aux visiteurs du parc ?",
+        "theme": "santé",
+        "question": "Quel est un signe de bonne santé digestive lorsqu'on regarde ses selles ?",
         "image": {
             "imageQuestion": "",
             "imageReponse": ""
         },
-        "type": "reponseMultiple",
-        "choix": ["Tyrannosaurus Rex", "Velociraptors", "Triceratops", "Brachiosaure"],
-        "reponse": [0, 3]
+        "type": "reponseUnique",
+        "choix": [
+            "Elles flottent comme un canard en plastique",
+            "Elles sont en forme de banane",
+            "Elles sont vert fluo",
+            "Elles sentent la rose"
+        ],
+        "reponse": [
+            1
+        ]
     },
     {
         "id": 18,
@@ -212,20 +339,38 @@
             "imageReponse": ""
         },
         "type": "reponseMultiple",
-        "choix": ["Proximité d'un trou noir", "Planète avec une dilatation temporelle", "Voyage à travers un trou de ver", "Atterrissage sur Mars"],
-        "reponse": [0, 1, 2]
+        "choix": [
+            "Proximité d'un trou noir",
+            "Planète avec une dilatation temporelle",
+            "Voyage à travers un trou de ver",
+            "Atterrissage sur Mars"
+        ],
+        "reponse": [
+            0,
+            1,
+            2
+        ]
     },
     {
         "id": 19,
         "theme": "serie",
-        "question":"Dans le film 'Les Gardiens de la Galaxie', quels personnages forment l'équipe principale ?",
+        "question": "Dans le film 'Les Gardiens de la Galaxie', quels personnages forment l'équipe principale ?",
         "image": {
             "imageQuestion": "",
             "imageReponse": ""
         },
         "type": "reponseMultiple",
-        "choix": ["Star-Lord", "Gamora", "Drax le Destructeur", "Loki"],
-        "reponse": [0, 1, 2]
+        "choix": [
+            "Star-Lord",
+            "Gamora",
+            "Drax le Destructeur",
+            "Loki"
+        ],
+        "reponse": [
+            0,
+            1,
+            2
+        ]
     },
     {
         "id": 20,
@@ -236,7 +381,15 @@
             "imageReponse": ""
         },
         "type": "reponseMultiple",
-        "choix": ["Batman", "Superman", "Joker", "Catwoman"],
-        "reponse": [0, 2]
+        "choix": [
+            "Batman",
+            "Superman",
+            "Joker",
+            "Catwoman"
+        ],
+        "reponse": [
+            0,
+            2
+        ]
     }
 ]
