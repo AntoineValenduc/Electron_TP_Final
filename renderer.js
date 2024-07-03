@@ -50,6 +50,13 @@ const nextQuestionButton = () => {
     container.appendChild(nextButton);
 }
 
+const restartButton = () => {
+    const restartButton = document.createElement('button');
+    restartButton.textContent = 'Recommencer';
+    restartButton.className = "restartButton";
+    container.appendChild(restartButton);
+}
+
 const successMessage = () => {
     const successMessage = document.createElement('h3');
     successMessage.textContent = 'Bonne réponse chewbacca !';
