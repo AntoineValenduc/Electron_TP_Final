@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #C6FE20;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    max-width: 80%;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 2%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Titre du site */
+.quizzTitle {
+    font-size: 6vw;
+    margin-bottom: 3vw;
+}
+
+/* Question du quiz */
+.question {
+    font-size: 2vw;
+    margin-bottom: 1.5vw; 
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 1vw;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    margin-right: 1vw; 
+}
+
+/* Bouton de validation du/des réponses */
+.validationButton {
+    background-color: #005509;
+    color: #fff;
+    border: none;
+    padding: 1% 2%; 
+    font-size: 1.5vw; 
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 1vw; 
+    margin-right: 5%;
+}
+
+/* Bouton passant à la question suivante */
+.nextButton {
+    background-color: #D702FA;
+    color: #fff;
+    border: none;
+    padding: 1% 2%;
+    font-size: 1.5vw;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 1vw;
+}
+
+button:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+}

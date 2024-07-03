@@ -2,12 +2,14 @@ const container = document.getElementById('container');
 
 const displayQuizzTitle = () => {
     const quizzTitle = document.createElement('h1');
-    quizzTitle.textContent = 'QuizzDeMerde';
+    quizzTitle.className = "quizzTitle";
+    quizzTitle.textContent = 'QuizzDeMerde 💩';
     container.appendChild(quizzTitle);
 }
 
 const displayQuestion = () => {
     const question = document.createElement('h1');
+    question.className = "question";
     question.textContent = 'Votre question ici';
     container.appendChild(question);
 }
@@ -37,12 +39,14 @@ const displayPropositionList = () => {
 const validateButton = () => {
     const validationButton = document.createElement('button');
     validationButton.textContent = 'Valider';
+    validationButton.className = "validationButton"
     container.appendChild(validationButton);
 }
 
 const nextQuestionButton = () => {
     const nextButton = document.createElement('button');
     nextButton.textContent = 'Question suivante';
+    nextButton.className = "nextButton";
     container.appendChild(nextButton);
 }
 
