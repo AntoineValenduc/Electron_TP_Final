@@ -30,7 +30,7 @@ Format du fichier questions.json
         "imageQuestion": "chemin/vers/image.jpg",
         "imageReponse": "chemin/vers/autre-image.jpg"
       },
-      "type": "choixMultiple",
+      "type": "uneReponse",
       "choix": ["Vrai", "Faux"],
       "reponse": [0]
     }
@@ -39,5 +39,6 @@ Format du fichier questions.json
 ```
 
 theme : musique, serie, film, livre
-type : choixMultiple, reponseCourte
-Une question choixMultiple doit avoir un array de strings "choix" et un array de chiffres (index de la/des réponses correctes)
+type : uneReponse, choixMultiple, reponseCourte
+Une question choixMultiple doit avoir un array de strings "choix" et en "reponse" le chiffre qui correspond à l'index de la réponse correcte 
+Une question choixMultiple doit avoir un array de strings "choix" et un array "reponse" de chiffres (index des réponses correctes)
