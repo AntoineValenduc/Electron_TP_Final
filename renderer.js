@@ -62,3 +62,10 @@ displayPropositionList();
 validateButton();
 nextQuestionButton();
 successMessage();
+
+window.electronAPI.requestQuestions() // demande 5 nouvelles questions au main.js
+
+window.electronAPI.onQuestionsReceived((data) => {
+    console.log(data)
+})
+
