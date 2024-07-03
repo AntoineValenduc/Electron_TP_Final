@@ -21,10 +21,12 @@ const displayPropositionList = () => {
     propArray.forEach(newProposition => {
         const proposition = document.createElement('li');
         const radioButton = document.createElement('input');
-        radioButton.type = 'radio';
         const checkbox = document.createElement('input');
+
+        radioButton.type = 'radio';
         checkbox.type = 'checkbox';
         proposition.textContent = newProposition;
+
         list.appendChild(proposition);
         proposition.appendChild(checkbox);
         proposition.appendChild(radioButton);
@@ -44,8 +46,15 @@ const nextQuestionButton = () => {
     container.appendChild(nextButton);
 }
 
+const successMessage = () => {
+    const successMessage = document.createElement('h3');
+    successMessage.textContent = 'Bonne réponse chewbacca !';
+    container.appendChild(successMessage);
+}
+
 displayQuizzTitle();
 displayQuestion();
 displayPropositionList();
 validateButton();
 nextQuestionButton();
+successMessage();
